@@ -32,9 +32,8 @@
   cursor: pointer;
 }
 .sideBar .logoDiv img {
-  max-width: 80px;
+  max-width: 120px;
   margin-right: 0.5rem;
-  background: var(--inputColor);
   border-radius: 2px;
   padding: 0.2rem;
 }
@@ -156,7 +155,7 @@
     padding: 1.5rem 0.5rem 0;
   }
   .sideBar .logoDiv img {
-    max-width: 50px;
+    max-width: 60px;
     margin: 0;
     border-radius: 10px;
     padding: 0.5rem;

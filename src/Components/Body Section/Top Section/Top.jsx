@@ -9,7 +9,7 @@ import { BsArrowRightShort } from "react-icons/bs";
 import { BsQuestionCircle } from 'react-icons/bs'
 
 //Imported Image =======>
-import img from "../../../Assets/user.png";
+import img from "../../../Assets/user1.png";
 import img1 from "../../../Assets/gammer.webp";
 import video from "../../../Assets/video1.mov";
 
@@ -19,7 +19,7 @@ const Top = () => {
       <div className="headerSection flex">
         <div className="title">
           <h1>Welcome to Eml.</h1>
-          <p>Hello IsraTech, welcome back!</p>
+          <p>Hello Anyi, welcome back!</p>
         </div>
 
         <div className="searchBar flex">

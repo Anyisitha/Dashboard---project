@@ -1,0 +1,11 @@
+@-webkit-keyframes Floatingx {
+  0% {
+    -webkit-transform: translate(50px);
+  }
+  65% {
+    -webkit-transform: translate(0);
+  }
+  to {
+    -webkit-transform: translate(50px);
+  }
+}/*# sourceMappingURL=animations.css.map */
